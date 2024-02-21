@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pais de Origem</title>
+</head>
+<body>
+    <h1>Onde Você Nasceu?</h1>
+    Digite seu país de origem: <input type="" name="tx1" id="tx1">
+    <input type="button" value="Verificar" id="bot">
+    <div id="res">
+        Resultado: 
+    </div>
+    <script>
+        window.document.querySelector('input#bot').addEventListener('click', verificar)
+        function verificar(){
+            var tx1 = document.querySelector('input#tx1')
+            var res = document.querySelector('div#res')
+            var pais = tx1.value
+            if(pais != 'Brasil'){
+                res.innerHTML += `Você mora em <strong>${pais}</strong> e é um estrangeiro!`
+            }else{
+                res.innerHTML += `Você mora em <strong>${pais}</strong> e é um brasileiro!`
+            }
+        }
+    </script>
+</body>
+</html>

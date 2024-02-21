@@ -1,0 +1,5 @@
+Tipos de Repetições:
+
+- while (condição) {} - Teste lógico no início
+- do {} while (condição) - Teste lógico no final
+- for (inicio;teste;incremento) {} - Repetição com variável de controle

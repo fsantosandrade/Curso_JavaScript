@@ -1,0 +1,16 @@
+Eventos DOM:
+
+mouseenter: Quando o mouse entra na área da div
+mousemove: Quando o mouse se move na área
+mousedown: Clique e segure
+mouseup: Quando o clique do mousedown termina
+click: Clique rápido
+mouseout: Quando o cursor sai da área
+
+Funções:
+
+É um conjunto de códigos que vão ser executadas só quando um evento ocorrer, delimitado em chaves, isso se chama bloco.
+
+Código importante:
+
+addEventListener = Indica a condição para uma função

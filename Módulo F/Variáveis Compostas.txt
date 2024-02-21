@@ -1,0 +1,17 @@
+Variáveis compostas são as que são capazes de armazenar vários valores em uma mesma estrutura.
+
+Ex: var a = [1, 2, 3] (array ou vetor)
+
+Elementos é um par que agrupa o espaço da memória, o valor colocado dentro dele e o índice.
+
+Índice ou chave é o indicador do espaço.
+
+Vetor: é uma variável que tem vários elementos, cada elemento é composto por seu valor e por uma chave de identificação.
+
+.push() - Comando para adicionar um elemento na última posição
+.length - Comando que conta o cumprimento do vetor
+.sort() - Comando que coloca os elementos em ordem crescente 
+
+for simplificado para arrays e objetos: for(let i in variável){}
+
+.indexOf() - Comando que retorna o índice do valor encontrado

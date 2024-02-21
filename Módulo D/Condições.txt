@@ -1,0 +1,6 @@
+Estruturas de condição:
+
+- Condição Simples: if(condição){true} 
+- Condição Composta: if(condição){true}else{false} 
+- Condição Aninhada: if(condição){true}else{if(condição){true}else{false}}
+- Condição Múltipla: switch(expressão){case valor1:break case valor2:break case valor3:break default:break}

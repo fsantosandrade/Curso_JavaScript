@@ -1,0 +1,24 @@
+DOM (Document Object Model)
+
+Árvore DOM:
+
+window - Riz da árvore e é a janela do site.
+location - diz a localização do dite, a url, a página atual e a anterior.
+document - o documento atual
+history - guarda de onde você veio e pra onde você vai
+
+HTML (parent): esta dentro de document, e dentro dele existem o head e o body (child):
+
+head - Cabeçalho
+body - Corpo
+
+Métodos de acesso:
+
+Por marca - getElementsByTagName()
+Por ID - getElementById()
+Por nome - getElementsByName()
+Por classe - getElementsByClassName()
+Por seletor - querySelector() / querySelectorAll()
+
+id = #
+class = .

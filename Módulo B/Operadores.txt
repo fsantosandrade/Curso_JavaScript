@@ -1,0 +1,41 @@
+Aritiméticos:
+
+5 + 2 = 7
+5 - 2 = 3
+5 * 2 = 10
+5 / 2 = 2,5
+5 % 2 = 1 (Resto da divisão inteira)
+5 ** 2 = 25 (Potência)
+
+Relacionais:
+
+5 > 2 = TRUE
+7 < 4 = FALSE
+8 >= 8 = TRUE
+9 <= 7 = FALSE
+5 == 5 = TRUE
+4 != 4 = FALSE
+
+Identidade:
+
+5 == 5 = TRUE
+5 == '5' = TRUE
+5 === '5' = FALSE 
+5 === 5 = TRUE (Identicos)
+
+Lógicos:
+
+! = Negação
+&& = Conjunção
+|| = Disjunção 
+
+Ternário:
+
+teste ? true : false
+
+ORDEM DE PRECEDÊNCIA:
+
+1 - Aritiméticos
+2 - Relacionais 
+3 - Lógicos: !_&&_||
+4 - Ternário

@@ -1,0 +1,2 @@
+Toda função pode ter uma chamada, parâmetros, retornos e ações. 
+São ações executadas assim que são chamadas ou em decorrência de algum evento. Pode receber parâmetros e retornar um resultado.

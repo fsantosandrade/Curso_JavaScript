@@ -1,0 +1,10 @@
+Lista de próximos passos:
+
+1 - Curso de html e css
+2 - Estudar mais sobre Functions e IIFE
+3 - Estudar mais sobre objetos
+4 - Estudar mais sobre modularização
+5 - Estudar expressões regulares (RegEx)
+6 - Estudar JSON
+7 - Estudar AJAX
+8 - Estudar NodeJS

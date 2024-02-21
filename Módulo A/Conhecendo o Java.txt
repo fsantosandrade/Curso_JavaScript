@@ -1,0 +1,29 @@
+A internet funciona com servidores e clientes, onde os servidores disponibilizam serviços para os clientes, como por exemplo celulares ou computadores pessoais.
+
+Um Website é dividido em:
+
+HTML: Conteúdo
+CSS: Estilo
+JavaScript: Interação
+
+Evolução JS
+
+Na guerra fria os grandes computadores armazenavam as informações importantes dos centros militares e, paraa proteção desses dadsos, a DARPA deselvolveu a Arpanet: uma rede para a comunicação dos computadores e, depois de um tempo surgiu a internet.
+
+Em 1993 Tim Bernesly criou o html e o protocolo http e a www e, com isso surgiu o primeiro navegador: o Mosaic por Mark Anderson
+
+Em 1994 surgiu a Netscape, o navegador mais famoso da época. Em 1995 foi criado a linguagem Moca para aumentar funcionalidades e, ao mesmo tempo, nascia o Java, ganhando muito sucesso, fazendo então com que mudassem o nome da linguagem Moca para JavaScript. A Microsoft então, interessada nesse sucesso lançou o internet explore e, junto a ele, a sua própria linguagem: o JotaScript e, por isso a Netscape decidiu padronizar a linguagem utilizando a Ecma, surgindo o EcmaScript, que é o JavaScript, porém sua versão padronizada
+
+Em 2002 a Netscape deixou de ser o navegador mais famoso e dela surgiu a Mozilla, que lançou o navegador FireFox, que acabou perdendo espaço quando o Google Chrome foi lançado, pois possuia um motor muito potente de Javascript que se aperfeiçoou ate 2009 com o motor V8.
+
+Em 2010, como o código do V8 era aberto e so rodava no Chrome, alteraram o código para que rodasse fora, surgindo o Node JS
+
+Algumas tecnologias relacionadas:
+
+JQuery
+Angular
+React
+Vue
+Electron
+Ionic
+Cordova

@@ -1,0 +1,11 @@
+Formatando variáveis:
+
+n.length = Diz quantos caracteres
+n.toUpperCase() = Deixa em maiúsculo
+n.toLowerCase() = Deixa minúsculas
+
+Formatando números:
+
+n.toFixed() = Escolher as casas decimais
+.replace('', '') = Troca uma coisa por outra
+.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'}) = Coloca em dinheiro

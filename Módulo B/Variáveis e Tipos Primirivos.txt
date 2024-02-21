@@ -1,0 +1,30 @@
+Documentos são separados em:
+
+- Conteúdo: HTML
+- Design: CSS
+- Interatividade: JavaScript(Lado do cliente)
+
+Regras na definição de variáveis:
+
+- Podem começar com letra, $ ou _
+- Não podem começar com números 
+- É Possível usar letras ou números
+- É possível usar acentos e símbolos 
+- Não podem conter espaços 
+- Não o podem ser palavras reservadas
+- Maiúsculas e minúsculas fazem diferença
+
+Tipos Primitivos:
+
+- number
+ * infinity
+ * NaN (Not a Number) 
+- string
+- boolean
+- null
+- undefined
+- object
+ * array
+- function
+
+Use o type of

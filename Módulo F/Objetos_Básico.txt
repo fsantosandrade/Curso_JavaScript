@@ -1,0 +1,5 @@
+Declarado com chaves e com o diferencial de que pode escolher os índices
+
+Ex:
+
+Let amigo = {nome:'José', sexo:'M', peso:85.4, engordar(p){}}
